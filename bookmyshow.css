@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+}
+
+.BMS1{
+    background-color: rgb(24, 24, 58);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 10px;
+    
+}
+.link1,.link2{
+    padding: 50px;
+    word-spacing: 25px;
+}
+
+
+.BMS1 input{
+    width: 400px;
+    position: relative;
+    left:250px; 
+    bottom: 20px;
+      
+}
+
+.BMS1 img{
+    height: 60px;
+    width: 180px;
+    position: relative;
+    right: 390px;
+    bottom: 5px;
+    top: 5px;
+}
+
+
+.BMS1 select{
+    border: none;
+    margin: 0px 20px;
+   
+}
+
+.BMS1 button{
+    background-color: red;
+    color: whitesmoke;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    margin: 0px 20px;
+    
+}
+
+.navbar{
+    background-color: rgb(8, 8, 55);
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 10px;
+}
+.navbar a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0px,20px     
+}
+
+marquee img{
+    margin: 10px;
+    padding: 0px 20px;
+    border-radius: 50px;
+}
+
+.desc{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.desc h1{
+    margin-right: 950px;
+}
+
+.desc a{
+    margin-right: 20px;
+    color: red;
+    text-decoration: none;
+}
+
+ .image{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    font-weight: 600;
+}
+
+.bar1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
